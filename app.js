@@ -1,4 +1,4 @@
-angular.module('lenmeFrontend', ['ui.bootstrap','ngRoute','ngAnimate']);
+angular.module('lenmeFrontend', ['ui.bootstrap', 'ngRoute', 'ngAnimate', 'login']);
 
 angular.module('lenmeFrontend').config(function($routeProvider) {
 
